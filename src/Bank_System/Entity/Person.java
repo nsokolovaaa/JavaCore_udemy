@@ -1,4 +1,4 @@
-package Entity;
+package Bank_System.Entity;
 
 public class Person {
     private String name;
