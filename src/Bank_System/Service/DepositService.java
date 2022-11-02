@@ -1,7 +1,7 @@
-package Service;
+package Bank_System.Service;
 
-import Entity.Account;
-import Entity.Bill;
+import Bank_System.Entity.Account;
+import Bank_System.Entity.Bill;
 
 public class DepositService {
     public void deposit(Account account, int amout) {

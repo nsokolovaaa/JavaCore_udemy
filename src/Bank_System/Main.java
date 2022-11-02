@@ -1,10 +1,11 @@
-import Entity.Account;
-import Entity.Bill;
-import Entity.Payment;
-import Entity.Person;
-import Service.DepositService;
-import Service.PaymentService;
-import Service.TransferService;
+package Bank_System;
+
+import Bank_System.Entity.Account;
+import Bank_System.Entity.Bill;
+import Bank_System.Entity.Person;
+import Bank_System.Service.DepositService;
+import Bank_System.Service.PaymentService;
+import Bank_System.Service.TransferService;
 
 /**
  В данном домашнем задании нужно написать небольшую банковскую систему.

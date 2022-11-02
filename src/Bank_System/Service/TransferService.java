@@ -1,6 +1,6 @@
-package Service;
+package Bank_System.Service;
 
-import Entity.Account;
+import Bank_System.Entity.Account;
 
 public class TransferService {
     public void Transfer(Account accountFrom, Account accountTo, int amout) {
