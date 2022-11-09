@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b173a00-2a58-4608-9fc8-d2db868d146c" name="Changes" comment="add linkedList">
-      <change afterPath="$PROJECT_DIR$/src/Sorted/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurrency/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Concurrency/SequenceGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +40,26 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Concurrency" />
+      <recent name="Collection" />
       <recent name="Sorted" />
       <recent name="Collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sorted.Main">
+  <component name="RunManager" selected="Application.Concurrency.Main">
+    <configuration name="Collection.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.Main" />
+      <module name="Bank_Systeem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Collections.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Collections.Main" />
       <module name="Bank_Systeem" />
@@ -56,9 +73,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bank_System.Main" />
+    <configuration name="Concurrency.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Concurrency.Main" />
       <module name="Bank_Systeem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,10 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Concurrency.Main" />
+        <item itemvalue="Application.Collection.Main" />
         <item itemvalue="Application.Sorted.Main" />
         <item itemvalue="Application.Collections.Main" />
         <item itemvalue="Application.System_reserv.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -111,6 +135,9 @@
       <workItem from="1667472682945" duration="5197000" />
       <workItem from="1667751519063" duration="8952000" />
       <workItem from="1667812329923" duration="1821000" />
+      <workItem from="1667901710180" duration="3918000" />
+      <workItem from="1667920809008" duration="5112000" />
+      <workItem from="1667988161849" duration="1204000" />
     </task>
     <task id="LOCAL-00001" summary="add tasks about booking hotel: add service, client">
       <created>1667385844858</created>
